@@ -1,4 +1,4 @@
-# Thread modeling labs
+# Threat modeling labs
 
 ## Introduction
 
