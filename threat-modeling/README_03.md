@@ -1,6 +1,6 @@
 # Threat modeling labs
 
-## Threat list
+## Threat list (Cyber Kill Chain)
 
 * The lab is done in the links previously distribute by the instructor.
 * Fill out the list of possible attacks, with details
