@@ -30,3 +30,4 @@
 5. Open the browser and enter `localhost:8080/WebGoat`
 6. You are ready to go
    
+* FYI Goal Labs solutions: https://github.com/WebGoat/WebGoat/wiki/(Almost)-Fully-Documented-Solution-(en)#cross-site-scripting
