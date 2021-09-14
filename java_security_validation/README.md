@@ -8,4 +8,4 @@
   -  Linux Machine that can run JAVA Programs
   - JDK 64-bit
   - gcc compiler 64-bit
-  - Further details regarding project execution refer labs/input_validatoin.md
+  - Further details regarding project execution refer labs/input_validation.md
