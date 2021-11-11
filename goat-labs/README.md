@@ -31,3 +31,8 @@
 6. You are ready to go
    
 * FYI Goal Labs solutions: https://github.com/WebGoat/WebGoat/wiki/(Almost)-Fully-Documented-Solution-(en)
+
+## Instructor:
+
+* Every student gets this
+* ubuntu-clean-desktop-v1
