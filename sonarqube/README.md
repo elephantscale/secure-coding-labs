@@ -39,6 +39,10 @@
 
 `git clone https://github.com/shmsoft/FreeEed`
 
+alternatively, we can use https://github.com/markkerzner/talmudilluminated.git
+
+`git clone https://github.com/markkerzner/talmudilluminated.git`
+
 * Go into the `scrapers` directory
 
 `cd scraper`
