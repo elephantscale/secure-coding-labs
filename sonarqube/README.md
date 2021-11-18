@@ -37,7 +37,7 @@
 
 * On the command line, run this command
 
-`git clone https://github.com/shmsoft/scrapers.git`
+`git clone https://github.com/shmsoft/FreeEed`
 
 * Go into the `scrapers` directory
 
