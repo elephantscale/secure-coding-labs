@@ -17,7 +17,7 @@
 1. SSH into the VM you are given
 2. Enter the following
 
-   `docker run -p 8080:8080 -p 9090:9090 -p 81:8888 -e TZ=Europe/Amsterdam webgoat/goatandwolf:latest`
+   `sudo docker run -p 8080:8080 -p 9090:9090 -p 81:8888 -e TZ=Europe/Amsterdam webgoat/goatandwolf:latest`
 
 ### Start the goat labs
 
