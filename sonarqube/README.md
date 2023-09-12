@@ -8,7 +8,7 @@
 
   * Start the server by running:
   
-  `docker run -d --name sonarqube -e SONAR_ES_BOOTSTRAP_CHECKS_DISABLE=true -p 9000:9000 sonarqube:latest`
+  `sudo docker run -d --name sonarqube -e SONAR_ES_BOOTSTRAP_CHECKS_DISABLE=true -p 9000:9000 sonarqube:latest`
 *  Once your instance is up and running, Log in to http://localhost:9000 using System Administrator credentials:
 
 `login: admin`
